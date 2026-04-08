@@ -1,5 +1,10 @@
 # Dilithion
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilithion&repo=dilithion&layout=compact&theme=react-dark)](https://github.com/dilithion/dilithion)
+![HTML](https://img.shields.io/badge/HTML-232323?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-808080?style=for-the-badge&logo=windows&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 🌐 **Website**: [https://dilithion.org/](https://dilithion.org/)  
 💻 **GitHub**: [https://github.com/dilithion/dilithion](https://github.com/dilithion/dilithion)  
