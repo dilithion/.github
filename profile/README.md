@@ -1,4 +1,5 @@
 # Dilithion
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilithion&repo=dilithion&layout=compact&theme=react-dark)](https://github.com/dilithion/dilithion)
 
 🌐 **Website**: [https://dilithion.org/](https://dilithion.org/)  
 💻 **GitHub**: [https://github.com/dilithion/dilithion](https://github.com/dilithion/dilithion)  
